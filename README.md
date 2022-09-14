@@ -1,0 +1,2 @@
+# WeChat_Friend_Tool
+基于DaenWxHook开发，可用于找回和添加微信好友
